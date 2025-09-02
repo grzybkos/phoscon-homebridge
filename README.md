@@ -7,7 +7,7 @@ This repository contains a simple setup to run **Phoscon (Deconz)** and **Homebr
 Before starting, ensure you have the following:
 
 - **Raspberry Pi** with a compatible **ConBee II** USB stick.
-- **Docker** and **Docker Compose** installed on your Raspberry Pi. (sudo apt install docker.io)
+- **Docker** and **Docker Compose** installed on your Raspberry Pi. [Guide here](https://docs.docker.com/engine/install/raspberry-pi-os/#install-using-the-repository)
 - **Homebridge** for integrating your Zigbee devices with **Apple HomeKit**.
 
 ### Installation Instructions
