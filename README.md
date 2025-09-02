@@ -17,7 +17,7 @@ Before starting, ensure you have the following:
 First, clone this repository to your Raspberry Pi: (ideally in the `/applehome` directory)
 
 ```bash
-git clone https://github.com/your-username/homebridge-phoscon.git
+git clone https://github.com/grzybkos/phoscon-homebridge.git
 cd homebridge-phoscon
 ```
 
